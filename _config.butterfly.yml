@@ -1,0 +1,9 @@
+# _config.butterfly.yml
+
+busuanzi:
+  site_uv: true
+  site_pv: true
+  page_pv: true
+  # 这里是关键，强制使用官方最新稳定地址
+  option:
+    source: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
